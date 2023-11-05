@@ -15,10 +15,7 @@ Este é um projeto de uma Pokédex web simples que desenvolvi para testar meus c
 - GIFs animados para as imagens dos Pokémon obtidos através da API [PokeAPI](https://pokeapi.co/api/v2/pokemon/).
 
 ## Captura de Tela
-<p align = "center">
-  <img width = "460" heigth = "380" imagens = "imagens/ezgif.com-video-to-gif.gif">
-</p>
-[Assista ao vídeo da Pokédex](url-do-seu-video)
+[Assista ao vídeo da Pokédex](https://youtu.be/NJAfIA2Zfgc)
 
 ## Como Usar
 1. Clone este repositório em sua máquina local.
